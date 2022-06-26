@@ -1,0 +1,27 @@
+p{
+    color: yellowgreen; 
+    text-shadow: 15px 12px #b7e021;
+}
+a{
+    color: blue; 
+    text-decoration: none;
+}
+
+.img1{
+    border: 10px solid #d6a513c0; 
+    border-radius: 10px; 
+    box-shadow: 40px 40px 12px #dae0d6;
+    width: 400px;
+}
+.img-circle{
+        border-radius: 500px;
+}
+a:hover{
+        color: #888;
+        font-size: 150px;  
+h1{
+    color: #b7e021;
+}
+h2{
+    color: rebeccapurple
+}
